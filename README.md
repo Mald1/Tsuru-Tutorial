@@ -7,8 +7,8 @@
 
 - 1 folha de papel **quadrado** (ideal: 15x15 cm)
 - Superfície plana
-- ![1](/assets/img1.jpg)
-- ![2](/assets/img2.jpg)
+ ![1](/assets/img1.jpg)
+ ![2](/assets/img2.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ Você terá vincos em forma de um `X` e de um `+` no papel.
 
 Esta é chamada de **base preliminar** (ou "base da bomba d’água").
 
-- ![3](/assets/img3.jpg)
+![3](/assets/img3.jpg)
 
 ---
 
@@ -43,8 +43,8 @@ Esta é chamada de **base preliminar** (ou "base da bomba d’água").
 8. Dobre a ponta de cima para baixo, só para marcar a linha.
 9. Desdobre tudo.
 
-- ![4](/assets/img4.jpg)
-- ![5](/assets/img5.jpg)
+ ![4](/assets/img4.jpg)
+ ![5](/assets/img5.jpg)
 
 ---
 
@@ -53,13 +53,13 @@ Esta é chamada de **base preliminar** (ou "base da bomba d’água").
 10. Levante a aba de baixo da camada frontal e dobre para cima, ao mesmo tempo em que empurra as laterais para dentro, seguindo os vincos feitos antes.
 11. Achate para formar um **losango**.
 
-- ![6](/assets/img6.jpg)
+![6](/assets/img6.jpg)
 
 12. Vire o papel e repita os passos 7 a 11 do outro lado.
 
 Agora você tem a **base do pássaro**.
 
-- ![7](/assets/img7.jpg)
+![7](/assets/img7.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Agora você tem a **base do pássaro**.
 13. Dobre as laterais inferiores em direção ao centro, formando uma "pipa" mais fina.
 14. Vire o papel e repita do outro lado.
 
-- ![8](/assets/img8.jpg)
+![8](/assets/img8.jpg)
 
 ---
 
@@ -77,7 +77,7 @@ Agora você tem a **base do pássaro**.
 15. Dobre uma aba fina (inferior) para cima — será o **pescoço**.
 16. Dobre a outra aba fina para cima — será a **cauda**.
 
-- ![9](/assets/img9.jpg)
+![9](/assets/img9.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ Agora você tem a **base do pássaro**.
 
 17. Escolha uma das abas (pescoço) e dobre a ponta dela para baixo, formando a **cabeça** do tsuru.
 
-- ![10](/assets/img10.jpg)
+ ![10](/assets/img10.jpg)
 
 ---
 
@@ -101,7 +101,7 @@ Agora você tem a **base do pássaro**.
 Você agora tem um lindo **tsuru de origami**! 🕊️  
 Cole suas imagens aqui ou acima de cada passo para ilustrar o processo.
 
-- ![11](/assets/img11.jpg)
+![11](/assets/img11.jpg)
 
 ---
 
